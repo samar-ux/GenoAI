@@ -1,0 +1,184 @@
+body {
+    background-color: #282828;
+}
+        
+img {
+    max-width: 200px;
+    margin-top: -20px;
+    margin-bottom: -30px;
+    margin-left: -1100px;
+}
+
+.main {
+    width: 100%;
+    text-align: center;
+}
+
+form {
+    background-color: #66666675;
+    border-radius: 25px;
+    max-width: 430px;
+    text-align: center;
+    height: 480px;
+    box-shadow: 0 0 16px #080808;
+}
+
+a {
+    color: #000000;
+    text-shadow: 0 0 5px #1a1a1a;
+    text-decoration: none;
+    font-size: 50px;
+    font-weight: 800;
+    margin-right: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    font-size:60px;
+    font-weight: 900;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #0696F0;
+    margin: 15px;
+    margin-right: 100px;
+    text-shadow: 0 0 10px #1a1a1a;
+}
+
+label {
+    font-weight: bold;
+    color: #ffffff;
+    text-shadow: 0 0 6px #080808;
+    margin-top: 5px;
+}
+
+input {
+    border: 0cqb;
+}
+
+.user-pass {
+    background-color: black;
+    border-radius: 10px;
+    border: 0px;
+    width: 330px;
+    height: 50px;
+    color: white;
+    margin: 15px;
+    margin-inline: 50px;
+    box-shadow: 0 0 12px #1a1a1a;
+}
+
+.user-pass:active {
+    background-color: #080808;
+    border: 0px;
+}
+
+.user-pass:visited {
+    border: 0px;
+}
+
+.user-pass:active {
+    background-color: #0808089d;
+    border: 0px;
+}
+
+.user-pass:focus {
+    background-color: #080808bb;
+    border: 0px;
+    font-size: 18px;
+}
+
+
+.user-pass:visited {
+    border: 0px;
+}
+
+.show-pass {
+    display: flex;
+    margin-top: 10px;
+}   
+
+.show-pass {
+    display: flex;
+    margin-top: 10px;
+}
+
+.checkbox {
+    appearance: none;
+    background-color: #66666675;
+    display: grid;
+    place-content: center;
+    font: inherit;
+    color: currentColor;
+    border: 0.15em solid currentColor;
+    border-radius: 0.15em;
+    transform: translateY(-0.075em);
+    width: 20px;
+    height: 20px;
+    margin-left:60px;
+}
+
+.checkbox::before {
+    transform-origin: bottom left;
+    clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0%, 43% 62%);
+    background-color: CanvasText;
+    content: "";
+    width: 0.65em;
+    height: 0.65em;
+    transform: scale(0);
+    transition: 120ms transform ease-in-out;
+    box-shadow: inset 1em 1em var(--form-control-color);
+}
+
+.checkbox:checked::before {
+    transform: scale(1);
+}
+
+.sub {
+    background-color: black;
+    border: 0px;
+    border-radius: 40px;
+    width: 200px;
+    height: 50px;
+    color: white;
+    margin: 15px;
+    margin-inline: 120px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 15px;
+    box-shadow:0 0 10px #1a1a1a;
+}
+
+.sub:hover {
+    background-color: #ffffff;
+    border: 0px;
+    font-size: 28px;
+    color: black;
+}
+
+.sub:active {
+    background-color: #000000;
+    border: 0px;
+    color: white;
+}
+
+sub:focus {
+    background-color: #ffffff;
+    border: 0px;
+    font-size: 28px;
+    color: #080808;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.main {
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
