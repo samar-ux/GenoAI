@@ -1,0 +1,25 @@
+{
+  "name": "geno-backend",
+  "version": "0.1.0",
+  "description": "Geno AI MVP backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --no-warnings --test \"test/*.test.js\""
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.5.0",
+    "bcryptjs": "^3.0.3",
+    "better-sqlite3": "^13.0.3",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "express-rate-limit": "^8.7.3",
+    "jsonwebtoken": "^9.0.3",
+    "multer": "^2.5.0"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  }
+}
