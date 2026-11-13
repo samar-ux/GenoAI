@@ -1,10 +1,6 @@
 # Geno AI
-  <p align="center">
-    <img src="بروجكت3\docs/banner.png" alt="Geno AI: AI assistant with marketing execution" width="900">
-  </p>
-<p align="center">
-  <img src="بروجكت3\docs/banner.png" alt="Geno AI: AI assistant with marketing execution" width="900">
-</p>
+  <img width="1280" height="640" alt="banner" src="https://github.com/user-attachments/assets/bc32d3b0-ed0f-4be2-bcdf-aa785f2973dd" />
+
 
 An Arabic-first AI assistant with a built-in marketing workflow: save your brand once, get a 30-day execution plan, and publish only after you approve it. English and Arabic (RTL) interface.
 
