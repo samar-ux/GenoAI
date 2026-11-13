@@ -1,5 +1,7 @@
 # Geno AI
-
+  <p align="center">
+    <img src="docs/banner.png" alt="Geno AI: AI assistant with marketing execution" width="900">
+  </p>
 <p align="center">
   <img src="docs/banner.png" alt="Geno AI: AI assistant with marketing execution" width="900">
 </p>
