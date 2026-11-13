@@ -11,9 +11,11 @@ An Arabic-first AI assistant with a built-in marketing workflow: save your brand
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/login.png" alt="Login" width="300">
-  <img src="docs/screenshots/welcome.png" alt="Welcome screen" width="300">
-  <img src="docs/screenshots/brand-profile-mobile.png" alt="Brand profile on mobile" width="150">
+ <img width="1100" height="720" alt="login" src="https://github.com/user-attachments/assets/d97d0f95-2bb2-41fd-95e7-c405bf619b8d" />
+<img width="1100" height="720" alt="welcome" src="https://github.com/user-attachments/assets/3976dc8d-806d-4ab4-963b-b2fb7c783ca9" />
+
+  <img width="1100" height="720" alt="brand-profile" src="https://github.com/user-attachments/assets/58995286-e756-4fc8-a7e1-023a0e6edf6d" />
+
 </p>
 
 <sub>Screenshots show the interface with sample data (a fictional brand).</sub>
