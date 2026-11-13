@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: geno-ai
+    runtime: docker
+    plan: starter          # a persistent disk needs a paid plan
+    healthCheckPath: /healthz
+    disk:
+      name: geno-data
+      mountPath: /data
+      sizeGB: 1
+    envVars:
+      - key: JWT_SECRET
+        generateValue: true
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: NODE_ENV
+        value: production
+      - key: ADMIN_TOKEN
+        generateValue: true
+      - key: COMPANY_NAME
+        sync: false
+      - key: CONTACT_EMAIL
+        sync: false
+      - key: ANTHROPIC_MODEL
+        value: claude-sonnet-5-5

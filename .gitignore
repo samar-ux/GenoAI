@@ -1,9 +1,4 @@
 node_modules/
-.venv/
-venv/
-__pycache__/
-*.py[cod]
 .env
-.env.local
-dist/
-.DS_Store
+backend/data/
+backend/uploads/
