@@ -1,26 +1,26 @@
 # Geno AI
-  <img width="1280" height="640" alt="banner" src="https://github.com/user-attachments/assets/bc32d3b0-ed0f-4be2-bcdf-aa785f2973dd" />
-
+ 
+ <p align="center">
+  <img src="banner.png" alt="Geno AI: AI assistant with marketing execution" width="900">
+</p>
 
 An Arabic-first AI assistant with a built-in marketing workflow: save your brand once, get a 30-day execution plan, and publish only after you approve it. English and Arabic (RTL) interface.
 
 > **Status: MVP, ready for a closed beta.** The backend test suite passes (`npm --prefix backend test`). Real Claude replies, publishing to Facebook / Telegram / Meta Ads, WhatsApp and payments need your own accounts and keys and have not been tested end to end. See [LAUNCH.md](LAUNCH.md) for the checklist.
 
 <p align="center">
-  <img src="docs/screenshots/brand-profile.png" alt="Brand profile screen with the Save brand button" width="720">
+  <img src="brand-profile.png" alt="Brand profile screen with the Save brand button" width="720">
 </p>
 
 <p align="center">
- <img width="1100" height="720" alt="login" src="https://github.com/user-attachments/assets/d97d0f95-2bb2-41fd-95e7-c405bf619b8d" />
-<img width="1100" height="720" alt="welcome" src="https://github.com/user-attachments/assets/3976dc8d-806d-4ab4-963b-b2fb7c783ca9" />
-
-  <img width="1100" height="720" alt="brand-profile" src="https://github.com/user-attachments/assets/58995286-e756-4fc8-a7e1-023a0e6edf6d" />
-<img width="390" height="780" alt="brand-profile-mobile" src="https://github.com/user-attachments/assets/cfa89f10-3e09-4bef-b1fb-cb43d4d8e4d2" />
-
+  <img src="login.png" alt="Login" width="300">
+  <img src="welcome.png" alt="Welcome screen" width="300">
+  <img src="brand-profile-mobile.png" alt="Brand profile on mobile" width="150">
 </p>
 
 <sub>Screenshots show the interface with sample data (a fictional brand).</sub>
 
+---
 ---
 
 Chat assistant with accounts, history, file/image/PDF uploads, voice messages, dark/light theme and English/Arabic UI.
