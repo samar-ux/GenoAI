@@ -109,7 +109,7 @@ Not tested because they need external accounts or keys: real Claude replies, Ope
 
 - Automatic payments (Fawry, cards, Stripe). Payments are manual review for now.
 - Video understanding (videos are stored and played, but Claude only sees the file name).
-- Password reset / email verification, streaming replies, automated tests.
+- Password reset / email verification, streaming replies.
 - Before going public: HTTPS, a strict CSP (helmet), object storage for uploads, and a managed database if you need more than one server.
 - Government-procedure answers come from the model and can be outdated. The prompt tells it to say so, but verify before relying on it.
 
