@@ -15,6 +15,7 @@ An Arabic-first AI assistant with a built-in marketing workflow: save your brand
 <img width="1100" height="720" alt="welcome" src="https://github.com/user-attachments/assets/3976dc8d-806d-4ab4-963b-b2fb7c783ca9" />
 
   <img width="1100" height="720" alt="brand-profile" src="https://github.com/user-attachments/assets/58995286-e756-4fc8-a7e1-023a0e6edf6d" />
+<img width="390" height="780" alt="brand-profile-mobile" src="https://github.com/user-attachments/assets/cfa89f10-3e09-4bef-b1fb-cb43d4d8e4d2" />
 
 </p>
 
