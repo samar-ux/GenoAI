@@ -1,4 +1,26 @@
-# Geno AI (MVP)
+# Geno AI
+
+<p align="center">
+  <img src="docs/banner.png" alt="Geno AI: AI assistant with marketing execution" width="900">
+</p>
+
+An Arabic-first AI assistant with a built-in marketing workflow: save your brand once, get a 30-day execution plan, and publish only after you approve it. English and Arabic (RTL) interface.
+
+> **Status: MVP, ready for a closed beta.** The backend test suite passes (`npm --prefix backend test`). Real Claude replies, publishing to Facebook / Telegram / Meta Ads, WhatsApp and payments need your own accounts and keys and have not been tested end to end. See [LAUNCH.md](LAUNCH.md) for the checklist.
+
+<p align="center">
+  <img src="docs/screenshots/brand-profile.png" alt="Brand profile screen with the Save brand button" width="720">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/login.png" alt="Login" width="300">
+  <img src="docs/screenshots/welcome.png" alt="Welcome screen" width="300">
+  <img src="docs/screenshots/brand-profile-mobile.png" alt="Brand profile on mobile" width="150">
+</p>
+
+<sub>Screenshots show the interface with sample data (a fictional brand).</sub>
+
+---
 
 Chat assistant with accounts, history, file/image/PDF uploads, voice messages, dark/light theme and English/Arabic UI.
 
